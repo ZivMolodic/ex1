@@ -1,0 +1,100 @@
+# ninja log v5
+71	119	7010231656889343	C:/Users/hadar/OneDrive - Hadassah Academic College/Desktop/OOP2/ex1/oop2_ex01-basefiles/oop2_ex01-basefiles/out/build/x64-Debug/CMakeFiles/cmake.verify_globs	e0ce6e9c54ee2dde
+120	724	7010231661478404	build.ninja	ca5c64231f9ed0d2
+20	53	0	C:/Users/hadar/OneDrive - Hadassah Academic College/Desktop/OOP2/ex1/oop2_ex01-basefiles/oop2_ex01-basefiles/out/build/x64-Debug/CMakeFiles/cmake.verify_globs	e0ce6e9c54ee2dde
+59	4699	7010231709767853	CMakeFiles/oop2_ex01.dir/src/Functions.cpp.obj	84d55ae93222547a
+64	4804	7010231710866366	CMakeFiles/oop2_ex01.dir/src/main.cpp.obj	ea6b97748772eb21
+4	47	0	C:/Users/hadar/OneDrive - Hadassah Academic College/Desktop/OOP2/ex1/oop2_ex01-basefiles/oop2_ex01-basefiles/out/build/x64-Debug/CMakeFiles/cmake.verify_globs	e0ce6e9c54ee2dde
+48	4168	7010232241799350	CMakeFiles/oop2_ex01.dir/src/FuncCalculator.cpp.obj	6f4746fea06cbefd
+4169	4636	7010232246333742	oop2_ex01.exe	97ea0dcba7971875
+7	49	0	C:/Users/hadar/OneDrive - Hadassah Academic College/Desktop/OOP2/ex1/oop2_ex01-basefiles/oop2_ex01-basefiles/out/build/x64-Debug/CMakeFiles/cmake.verify_globs	e0ce6e9c54ee2dde
+64	5147	7010237662710479	CMakeFiles/oop2_ex01.dir/src/main.cpp.obj	ea6b97748772eb21
+51	5275	7010237663966159	CMakeFiles/oop2_ex01.dir/src/FuncCalculator.cpp.obj	6f4746fea06cbefd
+4	33	0	C:/Users/hadar/OneDrive - Hadassah Academic College/Desktop/OOP2/ex1/oop2_ex01-basefiles/oop2_ex01-basefiles/out/build/x64-Debug/CMakeFiles/cmake.verify_globs	e0ce6e9c54ee2dde
+2	35	0	C:/Users/hadar/OneDrive - Hadassah Academic College/Desktop/OOP2/ex1/oop2_ex01-basefiles/oop2_ex01-basefiles/out/build/x64-Debug/CMakeFiles/cmake.verify_globs	e0ce6e9c54ee2dde
+3	31	0	C:/Users/hadar/OneDrive - Hadassah Academic College/Desktop/OOP2/ex1/oop2_ex01-basefiles/oop2_ex01-basefiles/out/build/x64-Debug/CMakeFiles/cmake.verify_globs	e0ce6e9c54ee2dde
+32	4220	7010238202672369	CMakeFiles/oop2_ex01.dir/src/Functions.cpp.obj	84d55ae93222547a
+4221	4553	7010238205319267	oop2_ex01.exe	97ea0dcba7971875
+4	35	0	C:/Users/hadar/OneDrive - Hadassah Academic College/Desktop/OOP2/ex1/oop2_ex01-basefiles/oop2_ex01-basefiles/out/build/x64-Debug/CMakeFiles/cmake.verify_globs	e0ce6e9c54ee2dde
+3	32	0	C:/Users/hadar/OneDrive - Hadassah Academic College/Desktop/OOP2/ex1/oop2_ex01-basefiles/oop2_ex01-basefiles/out/build/x64-Debug/CMakeFiles/cmake.verify_globs	e0ce6e9c54ee2dde
+37	5287	7010239032360814	CMakeFiles/oop2_ex01.dir/src/Functions.cpp.obj	84d55ae93222547a
+33	5593	7010239035350658	CMakeFiles/oop2_ex01.dir/src/FuncCalculator.cpp.obj	6f4746fea06cbefd
+42	6111	7010239040664750	CMakeFiles/oop2_ex01.dir/src/main.cpp.obj	ea6b97748772eb21
+6111	6399	7010239043017014	oop2_ex01.exe	97ea0dcba7971875
+2	31	0	C:/Users/hadar/OneDrive - Hadassah Academic College/Desktop/OOP2/ex1/oop2_ex01-basefiles/oop2_ex01-basefiles/out/build/x64-Debug/CMakeFiles/cmake.verify_globs	e0ce6e9c54ee2dde
+6	55	0	C:/Users/hadar/OneDrive - Hadassah Academic College/Desktop/OOP2/ex1/oop2_ex01-basefiles/oop2_ex01-basefiles/out/build/x64-Debug/CMakeFiles/cmake.verify_globs	e0ce6e9c54ee2dde
+56	4583	7010239956591348	CMakeFiles/oop2_ex01.dir/src/main.cpp.obj	ea6b97748772eb21
+4583	4949	7010239959507084	oop2_ex01.exe	97ea0dcba7971875
+6	39	0	C:/Users/hadar/OneDrive - Hadassah Academic College/Desktop/OOP2/ex1/oop2_ex01-basefiles/oop2_ex01-basefiles/out/build/x64-Debug/CMakeFiles/cmake.verify_globs	e0ce6e9c54ee2dde
+50	4637	7010243219386119	CMakeFiles/oop2_ex01.dir/src/main.cpp.obj	ea6b97748772eb21
+45	4716	7010243220171716	CMakeFiles/oop2_ex01.dir/src/Functions.cpp.obj	84d55ae93222547a
+40	5030	7010243223310128	CMakeFiles/oop2_ex01.dir/src/FuncCalculator.cpp.obj	6f4746fea06cbefd
+5030	5352	7010243225957387	oop2_ex01.exe	97ea0dcba7971875
+3	32	0	C:/Users/hadar/OneDrive - Hadassah Academic College/Desktop/OOP2/ex1/oop2_ex01-basefiles/oop2_ex01-basefiles/out/build/x64-Debug/CMakeFiles/cmake.verify_globs	e0ce6e9c54ee2dde
+33	3888	7010243665364102	CMakeFiles/oop2_ex01.dir/src/Functions.cpp.obj	84d55ae93222547a
+3889	4103	7010243667085014	oop2_ex01.exe	97ea0dcba7971875
+7	54	0	C:/Users/hadar/OneDrive - Hadassah Academic College/Desktop/OOP2/ex1/oop2_ex01-basefiles/oop2_ex01-basefiles/out/build/x64-Debug/CMakeFiles/cmake.verify_globs	e0ce6e9c54ee2dde
+64	5476	7010251222650532	CMakeFiles/oop2_ex01.dir/src/Functions.cpp.obj	84d55ae93222547a
+70	5492	7010251222983172	CMakeFiles/oop2_ex01.dir/src/main.cpp.obj	ea6b97748772eb21
+56	5573	7010251223748481	CMakeFiles/oop2_ex01.dir/src/FuncCalculator.cpp.obj	6f4746fea06cbefd
+5574	5869	7010251226275111	oop2_ex01.exe	97ea0dcba7971875
+3	32	0	C:/Users/hadar/OneDrive - Hadassah Academic College/Desktop/OOP2/ex1/oop2_ex01-basefiles/oop2_ex01-basefiles/out/build/x64-Debug/CMakeFiles/cmake.verify_globs	e0ce6e9c54ee2dde
+43	4881	7010253311583706	CMakeFiles/oop2_ex01.dir/src/main.cpp.obj	ea6b97748772eb21
+37	4921	7010253312052509	CMakeFiles/oop2_ex01.dir/src/Functions.cpp.obj	84d55ae93222547a
+33	5056	7010253313306711	CMakeFiles/oop2_ex01.dir/src/FuncCalculator.cpp.obj	6f4746fea06cbefd
+5056	5341	7010253315707292	oop2_ex01.exe	97ea0dcba7971875
+3	35	0	C:/Users/hadar/OneDrive - Hadassah Academic College/Desktop/OOP2/ex1/oop2_ex01-basefiles/oop2_ex01-basefiles/out/build/x64-Debug/CMakeFiles/cmake.verify_globs	e0ce6e9c54ee2dde
+37	4093	7010253518717650	CMakeFiles/oop2_ex01.dir/src/main.cpp.obj	ea6b97748772eb21
+4094	4336	7010253520687196	oop2_ex01.exe	97ea0dcba7971875
+6	49	0	C:/Users/hadar/OneDrive - Hadassah Academic College/Desktop/OOP2/ex1/oop2_ex01-basefiles/oop2_ex01-basefiles/out/build/x64-Debug/CMakeFiles/cmake.verify_globs	e0ce6e9c54ee2dde
+56	4495	7010260525496244	CMakeFiles/oop2_ex01.dir/src/Functions.cpp.obj	84d55ae93222547a
+50	4668	7010260527209122	CMakeFiles/oop2_ex01.dir/src/FuncCalculator.cpp.obj	6f4746fea06cbefd
+2	48	0	C:/Users/hadar/OneDrive - Hadassah Academic College/Desktop/OOP2/ex1/oop2_ex01-basefiles/oop2_ex01-basefiles/out/build/x64-Debug/CMakeFiles/cmake.verify_globs	e0ce6e9c54ee2dde
+50	4073	7010263340829066	CMakeFiles/oop2_ex01.dir/src/main.cpp.obj	ea6b97748772eb21
+4074	4365	7010263343289022	oop2_ex01.exe	97ea0dcba7971875
+3	46	0	C:/Users/hadar/OneDrive - Hadassah Academic College/Desktop/OOP2/ex1/oop2_ex01-basefiles/oop2_ex01-basefiles/out/build/x64-Debug/CMakeFiles/cmake.verify_globs	e0ce6e9c54ee2dde
+47	4358	7010264588958976	CMakeFiles/oop2_ex01.dir/src/Functions.cpp.obj	84d55ae93222547a
+4359	4653	7010264591409018	oop2_ex01.exe	97ea0dcba7971875
+3	42	0	C:/Users/hadar/OneDrive - Hadassah Academic College/Desktop/OOP2/ex1/oop2_ex01-basefiles/oop2_ex01-basefiles/out/build/x64-Debug/CMakeFiles/cmake.verify_globs	e0ce6e9c54ee2dde
+43	4013	7010266764694946	CMakeFiles/oop2_ex01.dir/src/main.cpp.obj	ea6b97748772eb21
+4014	4267	7010266766764980	oop2_ex01.exe	97ea0dcba7971875
+3	32	0	C:/Users/hadar/OneDrive - Hadassah Academic College/Desktop/OOP2/ex1/oop2_ex01-basefiles/oop2_ex01-basefiles/out/build/x64-Debug/CMakeFiles/cmake.verify_globs	e0ce6e9c54ee2dde
+34	4103	7010267698023419	CMakeFiles/oop2_ex01.dir/src/Functions.cpp.obj	84d55ae93222547a
+4104	4333	7010267699883434	oop2_ex01.exe	97ea0dcba7971875
+4	38	0	C:/Users/hadar/OneDrive - Hadassah Academic College/Desktop/OOP2/ex1/oop2_ex01-basefiles/oop2_ex01-basefiles/out/build/x64-Debug/CMakeFiles/cmake.verify_globs	e0ce6e9c54ee2dde
+40	4286	7010268182883199	CMakeFiles/oop2_ex01.dir/src/main.cpp.obj	ea6b97748772eb21
+4287	4516	7010268184693012	oop2_ex01.exe	97ea0dcba7971875
+10	85	0	C:/Users/hadar/OneDrive - Hadassah Academic College/Desktop/OOP2/ex1/oop2_ex01-basefiles/oop2_ex01-basefiles/out/build/x64-Debug/CMakeFiles/cmake.verify_globs	e0ce6e9c54ee2dde
+3	45	0	C:/Users/hadar/OneDrive - Hadassah Academic College/Desktop/OOP2/ex1/oop2_ex01-basefiles/oop2_ex01-basefiles/out/build/x64-Debug/CMakeFiles/cmake.verify_globs	e0ce6e9c54ee2dde
+57	4825	7010307274485942	CMakeFiles/oop2_ex01.dir/src/main.cpp.obj	ea6b97748772eb21
+46	4871	7010307274945949	CMakeFiles/oop2_ex01.dir/src/FuncCalculator.cpp.obj	6f4746fea06cbefd
+2	35	0	C:/Users/hadar/OneDrive - Hadassah Academic College/Desktop/OOP2/ex1/oop2_ex01-basefiles/oop2_ex01-basefiles/out/build/x64-Debug/CMakeFiles/cmake.verify_globs	e0ce6e9c54ee2dde
+36	4291	7010307877259646	CMakeFiles/oop2_ex01.dir/src/Functions.cpp.obj	84d55ae93222547a
+4292	4594	7010307879839263	oop2_ex01.exe	97ea0dcba7971875
+18	52	0	C:/Users/hadar/OneDrive - Hadassah Academic College/Desktop/OOP2/ex1/oop2_ex01-basefiles/oop2_ex01-basefiles/out/build/x64-Debug/CMakeFiles/cmake.verify_globs	e0ce6e9c54ee2dde
+53	4496	7010308276712373	CMakeFiles/oop2_ex01.dir/src/main.cpp.obj	ea6b97748772eb21
+4497	4773	7010308278891844	oop2_ex01.exe	97ea0dcba7971875
+4	49	0	C:/Users/hadar/OneDrive - Hadassah Academic College/Desktop/OOP2/ex1/oop2_ex01-basefiles/oop2_ex01-basefiles/out/build/x64-Debug/CMakeFiles/cmake.verify_globs	e0ce6e9c54ee2dde
+55	5170	7010310618345742	CMakeFiles/oop2_ex01.dir/src/Functions.cpp.obj	84d55ae93222547a
+50	5209	7010310618705960	CMakeFiles/oop2_ex01.dir/src/FuncCalculator.cpp.obj	6f4746fea06cbefd
+61	5235	7010310619015763	CMakeFiles/oop2_ex01.dir/src/main.cpp.obj	ea6b97748772eb21
+5235	5517	7010310621395738	oop2_ex01.exe	97ea0dcba7971875
+2	32	0	C:/Users/hadar/OneDrive - Hadassah Academic College/Desktop/OOP2/ex1/oop2_ex01-basefiles/oop2_ex01-basefiles/out/build/x64-Debug/CMakeFiles/cmake.verify_globs	e0ce6e9c54ee2dde
+33	4209	7010311361140500	CMakeFiles/oop2_ex01.dir/src/main.cpp.obj	ea6b97748772eb21
+4210	4438	7010311362950710	oop2_ex01.exe	97ea0dcba7971875
+3	37	0	C:/Users/hadar/OneDrive - Hadassah Academic College/Desktop/OOP2/ex1/oop2_ex01-basefiles/oop2_ex01-basefiles/out/build/x64-Debug/CMakeFiles/cmake.verify_globs	e0ce6e9c54ee2dde
+38	4355	7010311675696570	CMakeFiles/oop2_ex01.dir/src/main.cpp.obj	ea6b97748772eb21
+4356	4586	7010311677576344	oop2_ex01.exe	97ea0dcba7971875
+3	37	0	C:/Users/hadar/OneDrive - Hadassah Academic College/Desktop/OOP2/ex1/oop2_ex01-basefiles/oop2_ex01-basefiles/out/build/x64-Debug/CMakeFiles/cmake.verify_globs	e0ce6e9c54ee2dde
+38	4234	7010313382066634	CMakeFiles/oop2_ex01.dir/src/main.cpp.obj	ea6b97748772eb21
+4235	4493	7010313384156243	oop2_ex01.exe	97ea0dcba7971875
+3	35	0	C:/Users/hadar/OneDrive - Hadassah Academic College/Desktop/OOP2/ex1/oop2_ex01-basefiles/oop2_ex01-basefiles/out/build/x64-Debug/CMakeFiles/cmake.verify_globs	e0ce6e9c54ee2dde
+41	5202	7010317242102126	CMakeFiles/oop2_ex01.dir/src/Functions.cpp.obj	84d55ae93222547a
+47	5472	7010317244842124	CMakeFiles/oop2_ex01.dir/src/main.cpp.obj	ea6b97748772eb21
+37	5516	7010317245282123	CMakeFiles/oop2_ex01.dir/src/FuncCalculator.cpp.obj	6f4746fea06cbefd
+5516	5797	7010317247652084	oop2_ex01.exe	97ea0dcba7971875
+7	66	0	C:/Users/hadar/OneDrive - Hadassah Academic College/Desktop/OOP2/ex1/oop2_ex01-basefiles/oop2_ex01-basefiles/out/build/x64-Debug/CMakeFiles/cmake.verify_globs	e0ce6e9c54ee2dde
+68	5373	7010353722773299	CMakeFiles/oop2_ex01.dir/src/FuncCalculator.cpp.obj	6f4746fea06cbefd
+74	5376	7010353722793095	CMakeFiles/oop2_ex01.dir/src/Functions.cpp.obj	84d55ae93222547a
+80	5605	7010353725123066	CMakeFiles/oop2_ex01.dir/src/main.cpp.obj	ea6b97748772eb21
+5606	5950	7010353728013305	oop2_ex01.exe	97ea0dcba7971875
