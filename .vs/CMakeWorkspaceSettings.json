@@ -1,4 +1,3 @@
 {
-  "enableCMake": true,
-  "sourceDirectory": "oop2_ex01-basefiles\\oop2_ex01-basefiles"
+  "enableCMake": false
 }

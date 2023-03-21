@@ -1,0 +1,8 @@
+{
+  "OutputFoldersPerTargetSystem": {
+    "Local Machine": [
+      "oop2_ex01-basefiles\\oop2_ex01-basefiles\\out\\build\\x64-Debug",
+      "oop2_ex01-basefiles\\oop2_ex01-basefiles\\out\\install\\x64-Debug"
+    ]
+  }
+}

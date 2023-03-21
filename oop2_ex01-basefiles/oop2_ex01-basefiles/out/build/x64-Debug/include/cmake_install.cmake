@@ -1,8 +1,8 @@
-# Install script for directory: C:/Users/kashi/Documents/OOP2/ex1/oop2_ex01-basefiles/oop2_ex01-basefiles/include
+# Install script for directory: C:/Users/hadar/OneDrive - Hadassah Academic College/Desktop/OOP2/ex1/oop2_ex01-basefiles/oop2_ex01-basefiles/include
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "C:/Users/kashi/Documents/OOP2/ex1/oop2_ex01-basefiles/oop2_ex01-basefiles/out/install/x64-Debug")
+  set(CMAKE_INSTALL_PREFIX "C:/Users/hadar/OneDrive - Hadassah Academic College/Desktop/OOP2/ex1/oop2_ex01-basefiles/oop2_ex01-basefiles/out/install/x64-Debug")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 

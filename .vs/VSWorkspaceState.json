@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "ExpandedNodes": [
     "",
@@ -8,4 +9,14 @@
   ],
   "SelectedNode": "\\README.md",
   "PreviewInSolutionExplorer": false
+=======
+{
+  "ExpandedNodes": [
+    "",
+    "\\oop2_ex01-basefiles",
+    "\\oop2_ex01-basefiles\\oop2_ex01-basefiles"
+  ],
+  "SelectedNode": "\\README.md",
+  "PreviewInSolutionExplorer": false
+>>>>>>> origin/main
 }

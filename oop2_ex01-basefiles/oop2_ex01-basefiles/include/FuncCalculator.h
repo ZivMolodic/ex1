@@ -1,6 +1,10 @@
 #include <iostream>
 #include <vector>
+<<<<<<< HEAD
 #include "Function.h"
+=======
+#include "Functions.h"
+>>>>>>> origin/main
 
 class FuncCalculator {
 public:

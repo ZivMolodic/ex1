@@ -4,7 +4,7 @@
 
 FuncCalculator::FuncCalculator()
 {
-	m_functions.push_back(make_shared<ID>());
+	m_functions.push_back(make_shared<Id>());
 	m_functions.push_back(make_shared<SwapCase>());
 	m_functions.push_back(make_shared<Reverse>());
 }
