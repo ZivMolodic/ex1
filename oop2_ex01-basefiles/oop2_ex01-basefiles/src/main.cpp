@@ -1,3 +1,12 @@
+<<<<<<< HEAD
+#include "FuncCalculator.h"
+
+int main()
+{
+	FuncCalculator funcCalc;
+
+	funcCalc.run();
+=======
 #include "Functions.h"
 #include <vector>
 
@@ -35,4 +44,5 @@ int main()
 	std::vector <std::shared_ptr< Function >> funcs = { id, swap, mul, mul2, add, add2, comp };
 	for (size_t i = 0; i < funcs.size(); i++)
 		std::cout << i << ".    " << funcs[i]->print() << std::endl;
+>>>>>>> origin/main
 }

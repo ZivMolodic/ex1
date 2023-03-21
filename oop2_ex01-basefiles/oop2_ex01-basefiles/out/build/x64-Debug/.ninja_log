@@ -1,4 +1,8 @@
 # ninja log v5
+<<<<<<< HEAD
+9	55	0	C:/Users/kashi/Documents/OOP2/ex1/oop2_ex01-basefiles/oop2_ex01-basefiles/out/build/x64-Debug/CMakeFiles/cmake.verify_globs	d4e5e1630f89f4ea
+5	397	7010466836940440	CMakeFiles/oop2_ex01.dir/src/main.cpp.obj	1713a0faa6613de4
+=======
 71	119	7010231656889343	C:/Users/hadar/OneDrive - Hadassah Academic College/Desktop/OOP2/ex1/oop2_ex01-basefiles/oop2_ex01-basefiles/out/build/x64-Debug/CMakeFiles/cmake.verify_globs	e0ce6e9c54ee2dde
 120	724	7010231661478404	build.ninja	ca5c64231f9ed0d2
 20	53	0	C:/Users/hadar/OneDrive - Hadassah Academic College/Desktop/OOP2/ex1/oop2_ex01-basefiles/oop2_ex01-basefiles/out/build/x64-Debug/CMakeFiles/cmake.verify_globs	e0ce6e9c54ee2dde
@@ -98,3 +102,4 @@
 74	5376	7010353722793095	CMakeFiles/oop2_ex01.dir/src/Functions.cpp.obj	84d55ae93222547a
 80	5605	7010353725123066	CMakeFiles/oop2_ex01.dir/src/main.cpp.obj	ea6b97748772eb21
 5606	5950	7010353728013305	oop2_ex01.exe	97ea0dcba7971875
+>>>>>>> origin/main
