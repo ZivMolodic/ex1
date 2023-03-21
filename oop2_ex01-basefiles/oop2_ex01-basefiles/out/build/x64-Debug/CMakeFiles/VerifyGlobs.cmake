@@ -6,6 +6,7 @@ cmake_policy(SET CMP0009 NEW)
 file(GLOB NEW_GLOB LIST_DIRECTORIES false RELATIVE "C:/Users/hadar/OneDrive - Hadassah Academic College/Desktop/OOP2/ex1/oop2_ex01-basefiles/oop2_ex01-basefiles/include" "C:/Users/hadar/OneDrive - Hadassah Academic College/Desktop/OOP2/ex1/oop2_ex01-basefiles/oop2_ex01-basefiles/include/*.h")
 set(OLD_GLOB
   "FuncCalculator.h"
+  "Functions.h"
   )
 if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
   message("-- GLOB mismatch!")
@@ -16,6 +17,7 @@ endif()
 file(GLOB_RECURSE NEW_GLOB LIST_DIRECTORIES false RELATIVE "C:/Users/hadar/OneDrive - Hadassah Academic College/Desktop/OOP2/ex1/oop2_ex01-basefiles/oop2_ex01-basefiles/src" "C:/Users/hadar/OneDrive - Hadassah Academic College/Desktop/OOP2/ex1/oop2_ex01-basefiles/oop2_ex01-basefiles/src/*.cpp")
 set(OLD_GLOB
   "FuncCalculator.cpp"
+  "Functions.cpp"
   "main.cpp"
   )
 if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")

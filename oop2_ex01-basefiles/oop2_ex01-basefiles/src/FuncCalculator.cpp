@@ -6,11 +6,12 @@ void FuncCalculator::run()
 {
 	std::string s;
 
-	while (1)
+	//while (1)
 	{
 		std::cin >> s;
 
-		if(strcmp(s, "eval") == 0)
+		if (s == std::string{ "eval" })
+			s = 's';
 
 
 	}
